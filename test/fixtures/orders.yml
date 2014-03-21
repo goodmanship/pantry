@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  placed_at: 2014-03-20 16:53:44
+  placed_by: 1
+
+two:
+  placed_at: 2014-03-20 16:53:44
+  placed_by: 1
